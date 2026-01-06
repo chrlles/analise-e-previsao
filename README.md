@@ -1,8 +1,3 @@
-# Analise e previsão de series temporais
+# Análise e Previsão de Séries Temporais com Prophet
 <br>
- 1. Preparando e processando os dados;<br>
- 2. Explorando os dados numéricos;<br>
- 3. Explorando os dados categóricos;<br>
- 4. Analisando os dados ao longo do tempo;<br>
- 5. Construindo o modelo preditivo;<br>
- 6. Melhorando as previsões
+Este projeto consiste em uma análise estatística profunda e modelagem preditiva aplicada a dados temporais. Utilizei técnicas de Data Science para identificar padrões, tratar anomalias e realizar previsões de tendências futuras.
