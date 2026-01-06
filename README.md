@@ -19,7 +19,7 @@
 
 ###  📊 Principais Insights
 
-#####  Identificação de picos sazonais que influenciam diretamente o planejamento de recursos.
+####  Identificação de picos sazonais que influenciam diretamente o planejamento de recursos.
 
-#####  Visualização clara da tendência de crescimento/declínio a longo prazo através de componentes do Prophet.
+####  Visualização clara da tendência de crescimento/declínio a longo prazo através de componentes do Prophet.
 
